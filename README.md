@@ -1,3 +1,5 @@
+[![StepSecurity Maintained Action](https://raw.githubusercontent.com/step-security/maintained-actions-assets/main/assets/maintained-action-banner.png)](https://docs.stepsecurity.io/actions/stepsecurity-maintained-actions)
+
 # filter-sarif
 
 Takes a SARIF file and a list of inclusion and exclusion patterns as input and removes alerts from the SARIF file according to those patterns.
