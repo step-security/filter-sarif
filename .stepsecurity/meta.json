@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/filter-sarif",
+   "upstream_full_repo_name": "advanced-security/filter-sarif",
+   "action_type": "composite",
+   "last_release": {
+     "tag_name": "v1.0.3",
+     "created_at": "2026-04-13T09:12:15Z",
+     "published_at": "2026-04-15T15:47:27Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
